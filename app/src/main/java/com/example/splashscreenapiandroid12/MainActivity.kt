@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         loadData()
 
-        // Splash Screen - API (Android 12+)
+        // Animated Splash Screen - API (Android 12+)
     }
 
     private fun loadData(){
